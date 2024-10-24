@@ -1,0 +1,8 @@
+Transaction Type is Invalid:            ACCT #,TYPE,FIRST NAME,LAST NAME,DATE,TYPE,AMOUNT
+Deposit data is Invalid:                110,C,Bugs,Bunny,6/3/2024,DEPOSIT,125.5
+Account data is Invalid:                118,C,Wiley,Coyote,6/5/2024,NEW,-100
+Id not found:                           112,1115,,,6/5/2024,TRANSFER,150
+Account number not found:               1115,S,Louis,Lawns,6/8/2024,DEPOSIT,500
+Insufficient funds:                     119,110,,,6/10/2024,TRANSFER,350
+Input Record is Invalid:                ,C,Bubba,Wubba,6/16/2024,NEW,915
+Insufficient funds:                     113,C,Charlie,Brown,6/17/2024,WITHDRAWAL,389
